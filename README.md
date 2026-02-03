@@ -1,4 +1,4 @@
-# CodeIgniter 4 Framework Fariq Irsyad SMKS Al-ma'mun Sumedang
+# CodeIgniter 4 Framework Fariq Irsyad kelas XII-RPL SMKS Al-ma'mun Sumedang Tandang
 
 ## What is CodeIgniter?
 
