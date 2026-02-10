@@ -87,4 +87,5 @@ class Paths
      * value - the directory should not be publicly accessible.
      */
     public string $envDirectory = __DIR__ . '/../../';
+    $publicDirectory = __DIR__ . '/../';
 }
